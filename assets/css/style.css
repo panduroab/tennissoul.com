@@ -296,6 +296,10 @@ footer a {
   text-decoration: underline;
 }
 @media (max-width: 900px) {
+  .navbar {
+    flex-direction: column;
+    align-items: center;
+  }
   .hero { flex-direction: column; }
   .hero-img img { margin-top: 0.5em; }
   .features-grid { flex-direction: column; align-items: center; }

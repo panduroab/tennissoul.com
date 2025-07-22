@@ -1,0 +1,16 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="200" rx="40" fill="#2951DD"/>
+  <!-- Tennis ball -->
+  <circle cx="100" cy="100" r="72" fill="#D1FF00" />
+  <!-- Left curve -->
+  <path d="M60,50 
+           Q20,100 60,150" 
+        stroke="#FFFFFF" stroke-width="8" fill="none"/>
+  <!-- Right curve -->
+  <path d="M140,50 
+           Q180,100 140,150" 
+        stroke="#FFFFFF" stroke-width="8" fill="none"/>
+  <!-- Subtle highlight -->
+  <ellipse cx="85" cy="80" rx="20" ry="8" fill="#fff" fill-opacity="0.26"/>
+</svg>
